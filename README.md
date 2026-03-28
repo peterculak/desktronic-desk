@@ -6,7 +6,6 @@ Documenting the technical journey of reverse engineering the Desktronic HomeOne 
 
 > [!CAUTION]
 > This project involves working with open electronics and modifying factory cabling.
-> - **Risk of Electric Shock**: The control box contains both high-voltage (220V AC) and low-voltage (33V/5V DC) sections. **Never** touch the high-voltage side while the desk is plugged in.
 > - **Warranty**: Performing these modifications will almost certainly void your warranty.
 > - **Hardware Damage**: Shorting the wrong pins or applying incorrect voltage can permanently damage your motor controller or handset.
 > - **Proceed at your own risk.**
