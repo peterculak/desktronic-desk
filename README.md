@@ -1,6 +1,6 @@
-# Desktronic HomeOne Desk Hardware Hack
+# Smart Desk Conversion: Desktronic HomeOne Hardware Hack
 
-Documenting the technical journey of reverse engineering the Desktronic HomeOne standing desk controller to enable phone-based control. 
+Documenting the technical journey of turning your Desktronic HomeOne into a smart desk with phone-based control.
 
 ### Why this hack?
 The Desktronic HomeOne model does not come with Bluetooth or WiFi connectivity, and there are no off-the-shelf products available to add phone control to this specific desk. This project enables full automation and remote control via an external microcontroller (like an ESP32) that interfaces directly with the hardware.

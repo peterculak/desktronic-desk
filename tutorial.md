@@ -1,4 +1,4 @@
-# Desktronic HomeOne Hack: Step-by-Step Tutorial
+# How to Turn Your Desktronic Desk into a Smart Desk: Step-by-Step Tutorial
 
 This guide is for anyone who wants to control their Desktronic HomeOne desk with a smartphone but has found that no such feature or product exists for this model. Since you can't buy a ready-made solution, we will build one by interfacing a microcontroller (like an ESP32) directly with the desk's hardware.
 
