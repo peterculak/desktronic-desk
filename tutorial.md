@@ -1,6 +1,6 @@
 # Desktronic HomeOne Hack: Step-by-Step Tutorial
 
-This guide is for anyone who wants to control their Desktronic HomeOne desk with an external device (like an ESP32) but has never done a hardware hack before. 
+This guide is for anyone who wants to control their Desktronic HomeOne desk with a smartphone but has found that no such feature or product exists for this model. Since you can't buy a ready-made solution, we will build one by interfacing a microcontroller (like an ESP32) directly with the desk's hardware.
 
 We will use a safe "intercept" method that doesn't involve cutting the original desk cables.
 
